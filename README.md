@@ -69,13 +69,4 @@
 | **Installment & Inventory Tracker** | Next.js + Supabase app replacing paper ledgers — clients, payments, stock |
 | **Shopify → WooCommerce Migration Tool** | Internal tooling for bulk product data migration |
 
----
-
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yehia004&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia004&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 <p align="center"><i>Fast pages rank. Pages that rank sell. 🚀</i></p>
